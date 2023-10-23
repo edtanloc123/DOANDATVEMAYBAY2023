@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DOANDATVEMAYBAY2023.props" />
+</Project>
